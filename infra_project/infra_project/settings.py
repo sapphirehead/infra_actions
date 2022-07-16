@@ -8,8 +8,8 @@ SECRET_KEY = 'k9gwcfq01xszx2(_4e#gc3u$rt=)y6ivx=$wt+5&-^ktk4dg4e'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'sapphirehead.ddns.net'
-    '84.201.179.117'
+    'sapphirehead.ddns.net',
+    '84.201.179.117',
     '127.0.0.1'
 ]
 
